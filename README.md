@@ -74,20 +74,28 @@ exploring: System Design • Scalable Architectures • ML Basics
 
 ---
 
-## 🧠 DSA & Competitive Programming
+## 🧠 DSA & Competitive Programming 🚀
 
-* ✅ Solved **400+ problems on LeetCode**
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-400+_Problems-orange?logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-darkgreen?logo=geeksforgeeks&logoColor=white" />
+</p>
 
-* 🔗 [LeetCode Profile](https://leetcode.com/u/SoHaM_09_17/)
+<p align="left">
+  <a href="https://leetcode.com/u/SoHaM_09_17/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-black?logo=leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sohamn0bvz?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks" />
+  </a>
+</p>
 
-* 🔗 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/profile/sohamn0bvz?tab=activity)
+### 💡 Strong In:
 
-* 💡 Strong in:
-
-  * Arrays & Strings
-  * Hashing
-  * Recursion
-  * Sliding Window
+* Arrays & Strings
+* Hashing
+* Recursion
+* Sliding Window
 
 ---
 
